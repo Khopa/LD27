@@ -9,6 +9,10 @@ This a quick and dirty entry for Ludum Dare Game Jam 27.
 
 ***
 
+<a href="url"><img src="http://ludumdare.com/compo/wp-content/compo2/273708/20553-shot0.png" align="center" height="200"></a>
+<a href="url"><img src="http://ludumdare.com/compo/wp-content/compo2/273708/20553-shot1.png" align="center" height="200"></a>
+<a href="url"><img src="http://ludumdare.com/compo/wp-content/compo2/273708/20553-shot2.png" align="center" height="200"></a>
+
 Results obtained : 
 ------------------
 
