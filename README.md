@@ -1,5 +1,5 @@
-Stellar Coutdown - a LD27 entry by Khopa :
-==========================================
+Stellar Coutdown - a LD27 entry by Khopa
+========================================
 
 This a quick and dirty entry for Ludum Dare Game Jam 27. 
 
