@@ -3,9 +3,9 @@ Stellar Coutdown - a LD27 entry by Khopa :
 
 This a quick and dirty entry for Ludum Dare Game Jam 27. 
 
-*Where to play : *
+[Play the game here !](https://dl.dropboxusercontent.com/u/207462510/KhopaGame/LD27/war/index.html)
 
-*Link to LD entry :*  http://ludumdare.com/compo/ludum-dare-27/?action=preview&uid=20553
+[View the LD entry here !](http://ludumdare.com/compo/ludum-dare-27/?action=preview&uid=20553)
 
 ***
 
