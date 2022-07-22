@@ -3,15 +3,12 @@ Stellar Coutdown - a LD27 entry by Khopa
 
 This a quick and dirty entry for Ludum Dare Game Jam 27. 
 
-[Play the game here !](https://dl.dropboxusercontent.com/u/207462510/KhopaGame/LD27/war/index.html)
-
-[View the LD entry here !](http://ludumdare.com/compo/ludum-dare-27/?action=preview&uid=20553)
+[View the LD entry here !](https://web.archive.org/web/20140212165433/http://ludumdare.com/compo/ludum-dare-27/?action=preview&uid=20553)
 
 ***
 
-<a href="url"><img src="http://ludumdare.com/compo/wp-content/compo2/273708/20553-shot0.png" align="center" height="150"></a>
-<a href="url"><img src="http://ludumdare.com/compo/wp-content/compo2/273708/20553-shot1.png" align="center" height="150"></a>
-<a href="url"><img src="http://ludumdare.com/compo/wp-content/compo2/273708/20553-shot2.png" align="center" height="150"></a>
+![image](https://user-images.githubusercontent.com/2546901/180335131-89dd975b-9acf-44e4-bdb4-e50f8fc1bbb5.png)
+
 
 Results obtained : 
 ------------------
